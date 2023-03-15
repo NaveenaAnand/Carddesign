@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Card</string>
+    <string name="onion_e">Onion (Eerulli)</string>
+    <string name="one">1Kg</string>
+    <string name="rs">Rs 100</string>
+    <string name="rs1">Rs110</string>
+    <string name="tomoto">Tomoto</string>
+<string name="twnty">20%off</string>
+    <string name="add">ADD</string>
+    <string name="veg">Fresh Vegetables</string>
+
+</resources>
